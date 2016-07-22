@@ -8,7 +8,6 @@ cd compose-sample-git
 
 service docker start
 
-docker-compose build
 docker-compose up -d
 
 sleep 5
